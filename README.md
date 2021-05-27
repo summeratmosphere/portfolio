@@ -1,6 +1,6 @@
 # Portfolio
 
-This portfolio is my small project using HTML, CSS, and Bootstrap and will showcase my projects.
+ This portfolio, which incorporates HTML, CSS, and Bootstrap, was created by me and will showcase my projects.
 
 [Live Heroku Deployment](https://portfoliomichael.herokuapp.com/)
 
