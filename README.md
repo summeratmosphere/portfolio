@@ -13,8 +13,8 @@ This portfolio is my small project using HTML, CSS, and Bootstrap and will showc
 
 ## Installation
 
-No need to install any software, just open index.html
+Installation is not needed. index.html simply needs to be opened.
 
 ## How to use?
 
-Use this template to build your own portfolio.
+Template can be used to build a portfolio for the user.
