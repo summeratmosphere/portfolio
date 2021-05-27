@@ -13,7 +13,7 @@ This portfolio is my small project using HTML, CSS, and Bootstrap and will showc
 
 ## Installation
 
-Installation is not needed. index.html simply needs to be opened.
+Installation is not needed. The file "index.html" simply needs to be opened.
 
 ## How to use?
 
