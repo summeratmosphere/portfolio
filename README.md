@@ -17,4 +17,4 @@ Installation is not needed. The file "index.html" simply needs to be opened.
 
 ## How to use?
 
-Template can be used to build a portfolio for the user.
+The user can use the template to build a portfolio.
